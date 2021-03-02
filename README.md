@@ -25,6 +25,3 @@
 
 -----
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
-
-Last Edited on: 22/02/2021
-
