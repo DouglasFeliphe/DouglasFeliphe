@@ -21,8 +21,6 @@
   <code> <img height="50" src="  https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg
 ">
   
-<hr>
-
 
 -----
 Credits: [Akash chowrasia](https://github.com/Akash-chowrasia)
